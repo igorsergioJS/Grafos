@@ -3,7 +3,7 @@
 ## Build
 
 ```
-$ git clone https://github.com/neumanf/edi.git
+$ git clone https://github.com/igorsergioJS/grafos.git
 $ cd edi
 $ git clone https://github.com/google/googletest.git
 ```
