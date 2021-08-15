@@ -4,7 +4,7 @@
 
 ```
 $ git clone https://github.com/igorsergioJS/grafos.git
-$ cd edi
+$ cd grafos
 $ git clone https://github.com/google/googletest.git
 ```
 
@@ -20,15 +20,3 @@ VSCode
 - [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer)
 - [C++ TestMate](https://marketplace.visualstudio.com/items?itemName=matepek.vscode-catch2-test-adapter)
 
-##  TODO
-
-|                     |                    |
-| ------------------- | :----------------: | 
-| Array List          |         ✔️         |
-| Linked List         |         ✔️         |
-| Doubly Linked List  |         ✔️         |
-| Array Stack         |         ✔️         |
-| Linked Stack        |         ✔️         |
-| Array Queue         |         ✔️         |
-| Linked Queue        |         ✔️         |
-| Implementar testes  |         ✔️         |
