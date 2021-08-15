@@ -1,4 +1,4 @@
-# Estruturas de Dados e Algoritmos II
+# Algoritmos e Estruturas de Dados II
 
 ## Build
 
