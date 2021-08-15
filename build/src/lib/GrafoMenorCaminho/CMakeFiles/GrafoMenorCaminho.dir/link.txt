@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -fPIC -g  -shared -Wl,-soname,libGrafoMenorCaminho.so -o libGrafoMenorCaminho.so CMakeFiles/GrafoMenorCaminho.dir/GrafoMenorCaminho.cpp.o 

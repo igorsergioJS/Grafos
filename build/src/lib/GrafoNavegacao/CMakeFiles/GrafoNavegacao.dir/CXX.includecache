@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/igor/Documentos/UFRN/2021.1 Remoto/EDII/UnidadeII/edii/src/lib/GrafoNavegacao/GrafoNavegacao.cpp
+iostream
+-
+vector
+-
+queue
+-
+GrafoNavegacao.h
+/home/igor/Documentos/UFRN/2021.1 Remoto/EDII/UnidadeII/edii/src/lib/GrafoNavegacao/GrafoNavegacao.h
+
+/home/igor/Documentos/UFRN/2021.1 Remoto/EDII/UnidadeII/edii/src/lib/GrafoNavegacao/GrafoNavegacao.h
+iostream
+-
+vector
+-
+

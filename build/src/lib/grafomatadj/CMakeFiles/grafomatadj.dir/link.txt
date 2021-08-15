@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -fPIC -g  -shared -Wl,-soname,libgrafomatadj.so -o libgrafomatadj.so CMakeFiles/grafomatadj.dir/grafomatadj.cpp.o 

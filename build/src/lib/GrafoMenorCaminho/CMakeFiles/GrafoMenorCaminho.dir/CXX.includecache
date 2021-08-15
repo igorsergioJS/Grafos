@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/igor/Documentos/UFRN/2021.1 Remoto/EDII/UnidadeII/edii/src/lib/GrafoMenorCaminho/GrafoMenorCaminho.cpp
+iostream
+-
+vector
+-
+queue
+-
+GrafoMenorCaminho.h
+/home/igor/Documentos/UFRN/2021.1 Remoto/EDII/UnidadeII/edii/src/lib/GrafoMenorCaminho/GrafoMenorCaminho.h
+
+/home/igor/Documentos/UFRN/2021.1 Remoto/EDII/UnidadeII/edii/src/lib/GrafoMenorCaminho/GrafoMenorCaminho.h
+iostream
+-
+vector
+-
+queue
+-
+

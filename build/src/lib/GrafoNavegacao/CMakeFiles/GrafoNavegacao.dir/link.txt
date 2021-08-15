@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -fPIC -g  -shared -Wl,-soname,libGrafoNavegacao.so -o libGrafoNavegacao.so CMakeFiles/GrafoNavegacao.dir/GrafoNavegacao.cpp.o 

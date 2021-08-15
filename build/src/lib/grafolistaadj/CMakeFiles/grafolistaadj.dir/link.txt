@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -fPIC -g  -shared -Wl,-soname,libgrafolistaadj.so -o libgrafolistaadj.so CMakeFiles/grafolistaadj.dir/grafolistaadj.cpp.o 

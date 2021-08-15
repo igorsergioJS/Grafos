@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/igor/Documentos/UFRN/2021.1 Remoto/EDII/UnidadeII/edii/src/lib/grafomatadj/grafomatadj.cpp
+stdlib.h
+-
+limits.h
+-
+stdbool.h
+-
+string.h
+-
+grafomatadj.h
+/home/igor/Documentos/UFRN/2021.1 Remoto/EDII/UnidadeII/edii/src/lib/grafomatadj/grafomatadj.h
+
+/home/igor/Documentos/UFRN/2021.1 Remoto/EDII/UnidadeII/edii/src/lib/grafomatadj/grafomatadj.h
+stdlib.h
+-
+limits.h
+-
+stdbool.h
+-
+string.h
+-
+
